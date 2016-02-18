@@ -1,0 +1,29 @@
+{
+  "name": "dhbw-socketio-sample",
+  "version": "1.0.0",
+  "description": "This sample was done for a socket.io presentation with a chat sample live coding at the Cooperative State University Baden-Wuerttemberg Heilbronn.",
+  "main": "client.js",
+  "dependencies": {
+    "node-static": "0.7.7",
+    "socket.io": "1.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start-server": "node server.js",
+    "start-client": "static"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuelRauber/dhbw-socketio-sample.git"
+  },
+  "keywords": [
+    "socket.io",
+    "websockets"
+  ],
+  "author": "Manuel Rauber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManuelRauber/dhbw-socketio-sample/issues"
+  },
+  "homepage": "https://github.com/ManuelRauber/dhbw-socketio-sample#readme"
+}
